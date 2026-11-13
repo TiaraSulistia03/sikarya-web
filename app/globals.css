@@ -1,0 +1,11 @@
+@import "tailwindcss";
+@theme {
+    --font-sans: var(--font-plus-jakarta), var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+}
+
+
+/* Sedikit tambahan untuk memastikan background dasar */
+
+body {
+    background-color: #F8FAFC;
+}
